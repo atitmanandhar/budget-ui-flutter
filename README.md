@@ -1,4 +1,4 @@
-# flutter_budget_ui
+# Flutter Budget App - UI
 
 This is the budget user interface made with flutter. Just a project to practice my flutter skills.
 
